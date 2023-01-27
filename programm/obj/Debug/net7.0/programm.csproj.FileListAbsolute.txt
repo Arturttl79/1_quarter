@@ -1,0 +1,15 @@
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/bin/Debug/net7.0/programm
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/bin/Debug/net7.0/programm.deps.json
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/bin/Debug/net7.0/programm.runtimeconfig.json
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/bin/Debug/net7.0/programm.dll
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/bin/Debug/net7.0/programm.pdb
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/programm.csproj.AssemblyReference.cache
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/programm.AssemblyInfoInputs.cache
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/programm.AssemblyInfo.cs
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/programm.csproj.CoreCompileInputs.cache
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/programm.dll
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/refint/programm.dll
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/programm.pdb
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/programm.genruntimeconfig.cache
+/Users/arturttl79/Desktop/1_quarter/1_quarter/programm/obj/Debug/net7.0/ref/programm.dll
