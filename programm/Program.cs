@@ -4,7 +4,6 @@ System.Console.Write("Введите массив строк через проб
 string input = Console.ReadLine() ?? "";
 string[] stringArray = input.Split(" ");
 int j = 0;
-int k = 0;
 
 for (int i = 0; i < stringArray.Length; i++)
 {
@@ -15,13 +14,14 @@ for (int i = 0; i < stringArray.Length; i++)
 }
 
 string[] newStringArray = new string[j];
+j=0;
 
 for (int i = 0; i < stringArray.Length; i++)
 {
     if (stringArray[i].Length <= 3)
     {
-        newStringArray[k] = stringArray[i];
-        k++;
+        newStringArray[j] = stringArray[i];
+        j++;
     }
 }
 
